@@ -1,5 +1,5 @@
 var littleRed = {
-  color: 'Red',  
+  color: 'Red',
   pluralNouns: ['fruits', 'ears', 'eyes', 'hands'],
   adjective: 'fat',
   exclamation: 'Hi',
@@ -64,9 +64,9 @@ console.log(`And then she said, "What big ${littleRed.pluralNouns[3]}" you have,
 the wolf said nothing. He had just died of indigestion from eating Grandmother`);
 
 
-var snowWhite = {  
+var snowWhite = {
   pluralNouns: ['tales', 'dwarfs'],
-  number: 7,  
+  number: 7,
   adjectives: ['stately', 'helpful', 'small'],
   nouns: ['castle', 'cottage', 'world', 'kiss', 'apple'],
   color: 'White',
